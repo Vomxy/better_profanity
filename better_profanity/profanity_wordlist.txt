@@ -81,6 +81,10 @@ no lim
 nolim
 nolimit
 nolimits
+no limit
+no limits
+not legal
+notlegal
 opendm
 openpm
 opendms
