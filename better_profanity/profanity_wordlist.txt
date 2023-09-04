@@ -95,3 +95,6 @@ openpms
 (openpm)
 (openpms)
 pd
+TRD
+trade
+zoo
